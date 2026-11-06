@@ -1,0 +1,8 @@
+genomes/
+kmers/
+*.msh
+dist.tsv
+*.npz
+AMR_CDS.fa
+__pycache__/
+.ipynb_checkpoints/
